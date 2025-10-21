@@ -28,7 +28,7 @@ const Hero = () => {
         />
       </div>
 
-      <div className="container-max text-center relative z-10 px-4">
+      <div className="container-max text-center relative z-10 px-4 mt-24 md:mt-0">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}

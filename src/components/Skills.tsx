@@ -21,7 +21,7 @@ const Skills = () => {
         "Redux Toolkit",
         "Zustand",
         "RTK Query",
-        "Tanstack Query",
+        "TanStack Query",
         "SWR",
         "GraphQL",
         "Socket.IO",
